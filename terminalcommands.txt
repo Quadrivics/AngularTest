@@ -1,0 +1,7 @@
+Build:
+docker build -t angulartest .
+
+Run (mapped naar 3333):
+docker run -p 4200:80 --name angular-docker -d angulartest
+
+

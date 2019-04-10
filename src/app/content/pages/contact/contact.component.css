@@ -1,0 +1,17 @@
+#content {
+  background-color: #f3f3f3;
+  padding: 30px;
+  overflow: hidden;
+  position: absolute;
+  top: 82px; /* Header Height */
+  bottom: 72px; /* Footer Height */
+  width: 80%;
+}
+
+h1 {
+  line-height: 45px;
+  font-size: 36px;
+  text-transform: none;
+  color: #87cd9b;
+}
+

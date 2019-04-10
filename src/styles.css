@@ -1,0 +1,16 @@
+* {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#main-body {
+  background-image: url("app/resources/img/prism.png");
+}
+
+.wrapper {
+  padding: 10px 0px 10px 0px;
+  margin: 0px auto;
+  padding-left: -50px;
+  padding-right: -50px;
+  max-width: 80%;
+  height: 100%;
+}
