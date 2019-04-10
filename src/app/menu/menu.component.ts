@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./menu.component.css']
 })
 export class MenuComponent implements OnInit {
-  public LOGO = require('./website-logo-wit.png');
   constructor() { }
 
   ngOnInit() {
